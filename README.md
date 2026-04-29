@@ -58,7 +58,7 @@ npm install prisma @types/node @types/better-sqlite3 -D
 **🛠️ Visual Studio 2022**
 
 - مطمئن شوید حتما **visual studio** نصب دارید
-- ✅ **Desktop development with C++**
+- ✅ **++Desktop development with C**
 
 > 📥 **دانلود Visual Studio 2022**  
 > اگر ندارید، از [این لینک](https://soft98.ir/263-Visual-Studio.html) دانلود کنید
