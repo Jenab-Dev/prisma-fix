@@ -19,3 +19,7 @@
 
 ```bash
 npm install prisma @types/node @types/better-sqlite3 -D
+```
+- این مرحله به سادگی انجام میشه و نیاز به انجام هیچ کاری نیست ✅
+
+---
