@@ -49,25 +49,15 @@ npm install prisma @types/node @types/better-sqlite3 -D
 
 **🐍 Python**
 
-| وضعیت | اقدام لازم |
-|--------|-------------|
-| ❌ نصب ندارید | فایل نصبی داخل پوشه `python-installer` را اجرا کنید |
-| ✅ نصب دارید | مرحله بعد را بررسی کنید |
-
+- اگر پایتون نصب ندارید فایل نصبی `python v3.10` داخل فولدر قرار گرفته.
+ 
 > ⚠️ **حتماً** گزینه **"Add Python to PATH"** را هنگام نصب انتخاب کنید
-
-![Python PATH](https://img.shields.io/badge/important-Add%20to%20PATH-red)
 
 ---
 
 **🛠️ Visual Studio 2022**
 
-| وضعیت | اقدام لازم |
-|--------|-------------|
-| ❌ نصب ندارید | Visual Studio 2022 را نصب کنید |
-| ✅ نصب دارید | مطمئن شوید قابلیت‌های مورد نیاز فعال است |
-
-**حداقل قابلیت مورد نیاز:**
+- مطمئن شوید حتما **visual studio** نصب دارید
 - ✅ **Desktop development with C++**
 
 > 📥 **دانلود Visual Studio 2022**  
