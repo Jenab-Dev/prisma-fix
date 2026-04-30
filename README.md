@@ -7,7 +7,7 @@
 ## ⚠️ پیش‌نیازهای اولیه
 
 - ✅ Node.js 24.15.0 (فایل نصبی داخل فولدر قرار گرفته)
-- ✅ Python (فایل نصبی داخل فولدر قرار گرفته)
+- ✅ Python ([دانلود پایتون](https://soft98.ir/software/programming/16260-python.html))
 - ✅ Visual Studio 2022 (C++ build tools)
 
 > اگر VS 2022 ندارید، از [این لینک](https://soft98.ir/263-Visual-Studio.html) دانلود و نصب کنید.
@@ -47,7 +47,7 @@ npm install prisma @types/node @types/better-sqlite3 -D
 
 **🐍 Python**
 
-- اگر پایتون نصب ندارید فایل نصبی `python v3.10` داخل فولدر قرار گرفته.
+- اگر پایتون نصب ندارید [دانلود کنید](https://soft98.ir/software/programming/16260-python.html)
  
 > ⚠️ **حتماً** گزینه **"Add Python to PATH"** را هنگام نصب انتخاب کنید
 
