@@ -6,7 +6,7 @@
 
 ## ⚠️ پیش‌نیازهای اولیه
 
-- ✅ Node.js 24.15.0 (فایل نصبی داخل فولدر قرار گرفته)
+- ✅ Node.js v24.15 (فایل نصبی داخل فولدر قرار گرفته)
 - ✅ Python ([دانلود پایتون](https://soft98.ir/software/programming/16260-python.html))
 - ✅ Visual Studio 2022 (C++ build tools)
 
