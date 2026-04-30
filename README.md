@@ -92,7 +92,7 @@ npx prisma
 $env:PRISMA_SCHEMA_ENGINE_BINARY = "$env:USERPROFILE\.prisma\schema-engine.exe"
 ```
 > ⚠️ نکته مهم: هر بار که PowerShell را می‌بندید و دوباره باز می‌کنید، باید این دستور را دوباره اجرا کنید.
-> مگر اینکه مراحل زیر انجام دهید
+> **مگر اینکه مراحل زیر انجام دهید**
 - در ویندوز `Win + R` زده و `sysdm.cpl` وارد کنید
 - به قسمت `advanced` بروید و `Environment Variables` کلیک کنید
 - هم در بخش **User Variables** هم **System Variables** مراحل زیر را انجام دهید
